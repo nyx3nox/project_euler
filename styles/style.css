@@ -1,0 +1,26 @@
+* {
+  background-color: #f1ecce;
+  color: #576066;
+}
+
+header {
+  color: #540804;
+  font-size: 36pt;
+  font-family: 'Libre Baskerville', serif;
+  text-align: center;
+}
+
+div {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 16pt;
+  text-align: center;
+  position: relative;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+h2 {
+  font-size: 24pt;
+  font-family: 'Libre Baskerville', serif;
+  text-align: center;
+}
